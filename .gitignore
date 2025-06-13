@@ -1,2 +1,3 @@
 /backend/seeders/
 /backend/.env
+__pycache__/
